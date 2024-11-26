@@ -22,8 +22,10 @@
 ---
 
 ### 📈 GitHub Stats:
-![Esmaeil's GitHub Stats](https://github-readme-stats.vercel.app/api?username=EsmaeilAbedi&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=EsmaeilAbedi&layout=compact&theme=radical)
+![Esmaeil's GitHub Stats](https://github-readme-stats.vercel.app/api?username=esmaeil-abedi-dev&show_icons=true&theme=radical)
+
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=esmaeil-abedi-dev)
 
 ---
 
