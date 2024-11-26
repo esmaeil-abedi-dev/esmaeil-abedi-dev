@@ -15,20 +15,15 @@
 ---
 
 ### 🚀 My Projects:
-🌐 **[AI Model Evaluation](#)**  
-*A pipeline for analyzing sports performance metrics using NumPy and Pandas.*
-
-📊 **[Data Visualization Dashboard](#)**  
-*A React.js-based real-time data visualization platform for sports analytics.*
+🌐 **[Prediction Dogs Breed](https://github.com/esmaeil-abedi-dev/prediction-dogs-breed)**  
+*This app uses tenser-flow js to predict your dog breed and show a gallery of your dog breed.*
+![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white)
 
 ---
 
 ### 📈 GitHub Stats:
 ![Esmaeil's GitHub Stats](https://github-readme-stats.vercel.app/api?username=EsmaeilAbedi&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=EsmaeilAbedi&layout=compact&theme=radical)
-![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white)
 
 ---
 
