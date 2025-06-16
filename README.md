@@ -15,11 +15,17 @@
 ---
 
 ### 🚀 My Projects:
+🌐 **[Car Review Analysis with Hugging Face Transformers](https://github.com/esmaeil-abedi-dev/hugging-face-transformers)**  
+*This project demonstrates various Natural Language Processing (NLP) tasks.*
+
 🌐 **[Plant Seeding Image Classification](https://github.com/esmaeil-abedi-dev/plant_seeding_classification)**  
 *This project focused on modernizing plant sorting using computer vision techniques.*
 
 🌐 **[Bank Churn Neural Network](https://github.com/esmaeil-abedi-dev/bank_churn_neural_network)**  
 *This project focused on understanding and addressing customer attrition drivers using a neural network.*
+
+🌐 **[House Price Prediction using Scikit-Learn Pipelines](https://github.com/esmaeil-abedi-dev/regression-house-price-prediction)**  
+*This project demonstrates an end-to-end machine learning workflow to predict house prices.*
 
 🌐 **[Bank Loan Decision Tree Classifier](https://github.com/esmaeil-abedi-dev/bankloan_decision_tree_classifier)**  
 *Developed a Decision Tree model to predict bank customer conversion to personal loans.*
